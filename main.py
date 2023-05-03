@@ -1,4 +1,3 @@
-import os
 from pyspark import SparkConf, SparkContext
 from task_1 import *
 from task_2 import *
